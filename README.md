@@ -13,6 +13,7 @@
 
 ### Требования
 
+ - Аккаунт Telegram на любой из платформ
  - [Python 3.7+](https://www.python.org/)
  - Аккаунт на [OpenWeatherMap](https://openweathermap.org/) (здесь пригодится токен)
  - Для удобства я использовала среду разработки PyCharm Community, установленную с помощью [JetBrains](https://www.jetbrains.com/ru-ru/toolbox-app/download/#section=windows)
@@ -46,5 +47,7 @@
 - *Плеханова Тамара*
 
 Контакты:
+
 Почта: namitianda@gmail.com
+
 Тг: @leaska
